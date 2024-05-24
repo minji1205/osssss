@@ -19,7 +19,8 @@ sample : 강의 자료
 # syllabus
 |주차|필기 파일 링크|
 |-----|---|
-|1주차|[1주차 필기]("C:\Users\김민지\Documents\카카오톡 받은 파일\oss\NOTE\1주차.md")|
+|1주차|[1주차 필기]([1주차.md](https://github.com/minji1205/osssss/files/15437635/1.md)
+)|
 |2주차||
 |3주차||
 |4주차||
