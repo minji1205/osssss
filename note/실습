@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo hello world # 주석 달기
+echo "$#" (x)
+echo '$#' (o)
+
+position = $1
+directory=$(ls -l|$position|cut -c1|grep d|wc -l)
+echo "파일 "
