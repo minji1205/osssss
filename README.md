@@ -24,11 +24,12 @@ sample : 강의 자료
 |3주차|[3주차 필기](https://replit.com/@sallykim120567/osssss?v=1#note/note3.md)|
 |4주차|[4주차 필기](https://replit.com/@sallykim120567/osssss?v=1#note/note4.md)|
 |5주차|[5주차 필기](https://replit.com/@sallykim120567/osssss?v=1#note/note5.md)|
-|6주차|[6주차 필기]()|
-|7주차|[7주차 필기]()|
-|8주차|[8주차 필기]()|
-|9주차|[9주차 필기]()|
-|10주차|[10주차 필기]()|
+|6주차|[6주차 필기](https://replit.com/@sallykim120567/osssss?v=1#note/note6.md)|
+|7주차|[7주차 필기](https://replit.com/@sallykim120567/osssss?v=1#note/note7.md)|
+|8주차|[8주차 필기](https://replit.com/@sallykim120567/osssss?v=1#note/note8.md)|
+|9주차|[9주차 필기](https://replit.com/@sallykim120567/osssss?v=1#note/note9.md)|
+|10주차|[10주차 필기](https://replit.com/@sallykim120567/osssss?v=1#note/note10.md)|
 
 
 # 그 외 원하는 내용 
+각 주차별 실습을 통해 여러 가지 기능을 습득할 수 있습니다.
