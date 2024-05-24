@@ -20,15 +20,15 @@ sample : 강의 자료
 |주차|필기 파일 링크|
 |-----|---|
 |1주차|[1주차 필기](https://github.com/minji1205/osssss/files/15437635/1.md)|
-|2주차|[2주차 필기](https://github.com/minji1205/osssss/files/15437635/2.md)|
-|3주차|[3주차 필기](https://github.com/minji1205/osssss/files/15437635/3.md)]|
-|4주차|[4주차 필기](https://github.com/minji1205/osssss/files/15437635/4.md)|
-|5주차|[5주차 필기](https://github.com/minji1205/osssss/files/15437635/5.md)|
-|6주차|[6주차 필기](https://github.com/minji1205/osssss/files/15437635/6.md)|
-|7주차|[7주차 필기](https://github.com/minji1205/osssss/files/15437635/7.md)|
-|8주차|[8주차 필기](https://github.com/minji1205/osssss/files/15437635/8.md)|
-|9주차|[9주차 필기](https://github.com/minji1205/osssss/files/15437635/9.md)|
-|10주차|[10주차 필기](https://github.com/minji1205/osssss/files/15437635/10.md)|
+|2주차|[2주차 필기](https://replit.com/@sallykim120567/osssss?v=1#note/note2.md)|
+|3주차|[3주차 필기]()|
+|4주차|[4주차 필기]()|
+|5주차|[5주차 필기]()|
+|6주차|[6주차 필기]()|
+|7주차|[7주차 필기]()|
+|8주차|[8주차 필기]()|
+|9주차|[9주차 필기]()|
+|10주차|[10주차 필기]()|
 
 
 # 그 외 원하는 내용 
