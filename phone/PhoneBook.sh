@@ -46,20 +46,20 @@ if [[ -z "$Area" ]]; then
 fi
 
 # 이름 검색
-Result=$(grep "^$Name " "$PhoneBook")
+Result=$(grep "^$name " "$PhoneBook")
 
 if [[ -n "$Result" ]]; then
     Existing_Phone=$(echo "$Result" | awk '{print $2}')
-    if [[ "$Existing_Phone" == "$Phone_Number" ]]; then
+    if [[ "$Existing_Phone" == "$Phone_number" ]]; then
         echo "동일한 전화번호가 이미 존재합니다."
         exit 0
     else
-        add_and_sort_phonebook "$Name" "$Phone_Number" "$Area"
+        add_and_sort_phonebook "$name" "$Phone_number" "$Area"
         echo "전화번호가 업데이트되었습니다."
         exit 0
     fi
 else
-    add_and_sort_phonebook "$Name" "$Phone_Number" "$Area"
+    add_and_sort_phonebook "$name" "$Phone_number" "$Area"
     echo "새로운 전화번호가 추가되었습니다."
     exit 0
 fi
